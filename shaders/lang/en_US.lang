@@ -1,0 +1,12 @@
+option.UPSCALE_TERRAIN=Upscale Terrain
+option.UPSCALE_SKY=Upscale Sky
+option.UPSCALE_ENTITIES=Upscale Entities
+option.UPSCALE_HAND=Upscale Hand
+option.UPSCALE_PARTICLES=Upscale Particles
+option.UPSCALE_BEACONBEAM=Upscale Beacon Beam
+option.UPSCALE_SCREEN=Upscale Screen
+
+option.INFO=§6xBRZ Upscaler
+
+value.INFO.0=§aby J0SH
+value.INFO.1=§aj0sh.cf
