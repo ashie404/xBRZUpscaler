@@ -5,8 +5,9 @@ option.UPSCALE_HAND=Upscale Hand
 option.UPSCALE_PARTICLES=Upscale Particles
 option.UPSCALE_BEACONBEAM=Upscale Beacon Beam
 option.UPSCALE_SCREEN=Upscale Screen
+option.SCALE_FAC=Screen upscale factor
 
 option.INFO=§6xBRZ Upscaler
 
-value.INFO.0=§aby J0SH
-value.INFO.1=§aj0sh.cf
+value.INFO.0=§aby Ashie!
+value.INFO.1=§aashiecorner.xyz
